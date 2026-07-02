@@ -181,4 +181,4 @@ For real Hi-C data, export a region from:
 
 ---
 
-*Project by: [Your name(s)] | [College name] | [Year]*
+*Project by: Sreenidhi Komarraju | G.Narayanamma Institute of Technology and Science for Women | 2026
